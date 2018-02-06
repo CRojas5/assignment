@@ -1,4 +1,5 @@
-selector {
-  property: value;
-  property: value;
+body {
+  font-family: "Open Sans", sans-serif;
+  background: yellow;
+  font-size: 200%;
 }
