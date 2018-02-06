@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Century Gothic", sans-serif;
   background: white;
   font-size: 100%;
 }
@@ -9,5 +9,6 @@ nav a:hover {
 }
 
 h1 {
+  font-family: 'Pacifico', cursive;
   color: red;
 }
