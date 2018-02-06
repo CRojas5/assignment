@@ -4,6 +4,9 @@ body {
   font-size: 100%;
 }
 
+a:hover {
+  color: red;
+}
 
 h1 {
   color: red;
