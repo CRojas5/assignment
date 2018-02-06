@@ -5,7 +5,7 @@ body {
 }
 
 a:hover {
-  color: red;
+  font-color: red;
 }
 
 h1 {
