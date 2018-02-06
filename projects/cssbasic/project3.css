@@ -4,8 +4,8 @@ body {
   font-size: 100%;
 }
 
-a:hover {
-  font-color: red;
+nav a:hover {
+  color: red;
 }
 
 h1 {
