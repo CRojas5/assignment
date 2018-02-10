@@ -4,10 +4,6 @@ header {
     color: white;
 }
 
- 
-nav a {
- font-color:white;
-}
 
 nav a:hover {
   color: #c10e2d;
