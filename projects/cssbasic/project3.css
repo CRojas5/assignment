@@ -28,6 +28,9 @@ h1 {
 
 footer a:hover {
   color: #c10e2d;
+  background: black;
+    padding: 2px;
+   
 }
 
 
