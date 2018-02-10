@@ -9,7 +9,7 @@ body {
 }
  
 nav a {
- color:white;
+ font-color:white;
 }
 
 nav a:hover {
