@@ -1,6 +1,7 @@
 header {
     background-color: black;
     padding: 4px;
+    margin: 25px
     color: white;
 }
 
@@ -29,11 +30,13 @@ h1 {
   font-size: 2rem;
 }
 
+footer {
+    background-color:black;
+    padding:2px;
+    color: white;
+
 footer a:hover {
-  color: #c10e2d;
-  background: black;
-  padding: 2px;
-   
+  color: #c10e2d;  
 }
 
 
