@@ -6,6 +6,8 @@ body {
 
 nav a:hover {
   color: #c10e2d;
+  background-color: black;
+  padding: 20px 50 px;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
@@ -18,3 +20,5 @@ h1 {
 footer a:hover {
   color: #c10e2d;
 }
+
+
