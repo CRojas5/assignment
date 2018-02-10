@@ -1,9 +1,12 @@
 header {
     background-color: black;
-    padding: 5px;
+    padding: 2px;
     color: white;
 }
 
+a {
+    color: white;
+}
 
 nav a:hover {
   color: #c10e2d;
