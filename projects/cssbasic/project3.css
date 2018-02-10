@@ -7,6 +7,10 @@ body {
   font-family: "Century Gothic", sans-serif;
   font-size: 100%;
 }
+ 
+nav {
+    font-color: white
+}
 
 nav a:hover {
   color: #c10e2d;
