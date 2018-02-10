@@ -1,7 +1,6 @@
 header {
     background-color: black;
     padding: 4px;
-    margin: 0 px 0 px 80px 0px;
     color: white;
 }
 
@@ -11,6 +10,7 @@ a {
 
 nav a:hover {
   color: #c10e2d;
+  margin:0 20px 0 0; 
 }
 
 body {
