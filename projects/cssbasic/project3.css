@@ -8,8 +8,8 @@ body {
   font-size: 100%;
 }
  
-nav a: link {
-    color:white;
+nav {
+    font-color:white;
 }
 
 nav a:hover {
