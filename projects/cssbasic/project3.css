@@ -6,8 +6,11 @@ body {
 
 nav a:hover {
   color: #c10e2d;
+}
+
+nav{
   background-color: black;
-  padding: 20px 50 px;
+  padding: 20px 50px;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
