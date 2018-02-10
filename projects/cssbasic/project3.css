@@ -3,10 +3,6 @@ header {
     padding: 10px;
 }
 
-body {
-  font-family: "Century Gothic", sans-serif;
-  font-size: 100%;
-}
  
 nav a {
  font-color:white;
@@ -15,6 +11,13 @@ nav a {
 nav a:hover {
   color: #c10e2d;
 }
+
+body {
+  font-family: "Century Gothic", sans-serif;
+  font-size: 100%;
+  background: #ffffff
+}
+
 
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
