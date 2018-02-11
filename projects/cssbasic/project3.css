@@ -16,7 +16,7 @@ nav a:hover {
 
 body {
   font-family: "Century Gothic", sans-serif;
-  font-size: 100%;
+  font-size: 20rem;
 
 }
 
@@ -26,6 +26,7 @@ h1 {
   color: #c10e2d;
   font-weight: normal;
   font-size: 2rem;
+  line-height: 10px
 }
 
 footer {
