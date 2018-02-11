@@ -1,25 +1,22 @@
-header {
+ header {
     background-color: black;
     padding: 4px;
     width: 100%;
     color:white;
-}
+ }
 
-a {
+  a {
     color: white;
-}
+ }
 
 nav a:hover {
   color: #c10e2d;
- 
 }
 
 body {
   font-family: "Century Gothic", sans-serif;
   font-size: 100%;
-
 }
-
 
 h1 {
   font-family: "Pacifico", cursive;
@@ -35,7 +32,6 @@ footer {
     padding:2px;
     width:100%;
 }
-
 
 footer a:hover {
   color: #c10e2d;  
