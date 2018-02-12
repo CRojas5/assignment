@@ -1,11 +1,8 @@
  header {
-   background-image: url ("https://crojas5.github.io/assignment/projects/htmlstructuraltags/images/background.jpg")
-   height: 100vh
-   width: 100vw
-   postion:relative
-   background-size: cover
-   background-repeat: no-repeat
-   color:white;
+   background-color: black;
+    padding: 4px;
+    width: 100%;
+    color:white;
  }
 
   a {
