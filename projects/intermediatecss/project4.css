@@ -1,4 +1,37 @@
-selector {
-    property: value;
-    property: value;
-  }
+ header {
+    background-color: black;
+    padding: 4px;
+    width: 100%;
+    color:white;
+ }
+
+  a {
+    color: white;
+ }
+
+nav a:hover {
+  color: #c10e2d;
+}
+
+body {
+  font-family: "Century Gothic", sans-serif;
+  font-size: 100%;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  color: #c10e2d;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    padding:2px;
+    width:100%;
+}
+
+footer a:hover {
+  color: #c10e2d;  
+}
