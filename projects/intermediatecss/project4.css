@@ -10,6 +10,10 @@
     text-decoration: none;
  }
 
+.CRSocial Logo {
+     float: left;
+}
+
 nav a:hover {
   color: #c10e2d;
 }
