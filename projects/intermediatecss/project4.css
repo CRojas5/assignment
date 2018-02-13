@@ -1,18 +1,14 @@
 header {
-   background-color: black;
+    background-color: black;
     padding: 4px;
     width: 100%;
     color:white;
  }
 
-.a {
+ nav .a {
     color: white;
     text-decoration: none;
  }
-
-.CRSocial Logo {
-     float: left;
-}
 
 nav a:hover {
   color: #c10e2d;
@@ -21,6 +17,10 @@ nav a:hover {
 body {
   font-family: "Century Gothic", sans-serif;
   font-size: 100%;
+}
+
+img {
+     float: left;
 }
 
 h1 {
