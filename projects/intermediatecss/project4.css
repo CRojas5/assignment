@@ -5,7 +5,11 @@ header {
     color:white;
  }
 
- nav .a {
+nav {
+    display: inline;   
+}
+
+nav .a {
     color: white;
     text-decoration: none;
  }
