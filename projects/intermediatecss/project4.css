@@ -1,138 +1,98 @@
-header {
-    background-color: black;
-    padding: 4px;
-    width: 100%;
-    color:white;
-     text-align: center;
- }
-
-
-nav {
-    display: inline;
-}
-
-nav li {
-  display: inline-block;
-}
-
-nav .a {
-    color: white;
-    text-decoration: none;
-    display: inline-block;
- }
-
-nav a:hover {
-  color: #c10e2d;
+html {
+    box-sizing: border-box;
 }
 
 
 body {
-  font-family: "Century Gothic", sans-serif;
-  font-size: 100%;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 100%;
+    margin:  0;
 }
 
-
-
-h1 {
-  font-family: "Pacifico", cursive;
-  color: #c10e2d;
-  font-weight: normal;
-  font-size: 2rem;
-}
-
-footer {
-    background-color:black;
+header {
+    background-image: url(https://crojas5.github.io/assignment/projects/htmlstructuraltags/images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50vh;
+    padding: 4px;
+    width: 100%;
     color:white;
-    padding:2px;
-    width:100%;
+    text-align: center;
 }
 
-footer a:hover {
-  color: #c10e2d;
+nav {
+    background-color: black;
+    display: inline;
+}
+nav li {
+    display: inline-block;
+    color: #c10e2d;
 }
 
 a {
-    color:white;
- }
-
-nav {
-    display: inline;   
-}
-
-nav .a {
-    color: white;
+    color: #c10e2d;
     text-decoration: none;
- }
-
-nav a:hover {
-  color: #c10e2d;
 }
 
-body {
-  font-family: "Century Gothic", sans-serif;
-  font-size: 100%;
-}
-
-img {
-     float: left;
-}
-
-h1 {
-  font-family: "Pacifico", cursive;
-  color: #c10e2d;
-  font-weight: normal;
-  font-size: 2rem;
-}
-
-footer {
-    background-color:black;
-    color:white;
-    padding:2px;
-    width:100%;
-}
-
-footer a:hover {
-  color: #c10e2d;  
-}header {
-    background-color: black;
-    padding: 4px;
-    width: 100%;
-    color:white;
-     text-align: center;
- }
-
-
-nav {
-    display: inline;
-}
-
-nav li {
-  display: inline-block;
-}
-
-nav .a {
+a:hover {
     color: white;
-    text-decoration: none;
+}
+
+
+
+.background-stuff{
+
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+
+}
+
+.marketing{
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.background-stuff p {
+
+}
+
+.marketing-text {
+    width: 50%;
     display: inline-block;
- }
-
-nav a:hover {
-  color: #c10e2d;
 }
 
+.background-stuff .marketing-text {
 
-body {
-  font-family: "Century Gothic", sans-serif;
-  font-size: 100%;
 }
 
+main article {
+    padding: 30px;
+}
+
+main section {
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+
+}
+
+#SMManage {
+    border-radius: 20px;
+    background: linear-gradient(lightpink, red);
+}
+#SMManage h1 {
+    color:white;
+}
 
 
 h1 {
-  font-family: "Pacifico", cursive;
-  color: #c10e2d;
-  font-weight: normal;
-  font-size: 2rem;
+    font-family: "Pacifico", cursive;
+    color: #c10e2d;
+    font-weight: normal;
+    font-size: 2rem;
 }
 
 footer {
@@ -140,8 +100,9 @@ footer {
     color:white;
     padding:2px;
     width:100%;
+    text-align: center;
 }
 
 footer a:hover {
-  color: #c10e2d;
+    color: #c10e2d;
 }
