@@ -1,7 +1,59 @@
 header {
     background-color: black;
     padding: 4px;
+    width: 100%header {
+    background-color: black;
+    padding: 4px;
     width: 100%;
+    color:white;
+     text-align: center;
+ }
+
+
+nav {
+    display: inline;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav .a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+ }
+
+nav a:hover {
+  color: #c10e2d;
+}
+
+
+body {
+  font-family: "Century Gothic", sans-serif;
+  font-size: 100%;
+}
+
+
+
+h1 {
+  font-family: "Pacifico", cursive;
+  color: #c10e2d;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    padding:2px;
+    width:100%;
+}
+
+footer a:hover {
+  color: #c10e2d;
+}
+
     color:white;
  }
 
@@ -43,4 +95,55 @@ footer {
 
 footer a:hover {
   color: #c10e2d;  
+}header {
+    background-color: black;
+    padding: 4px;
+    width: 100%;
+    color:white;
+     text-align: center;
+ }
+
+
+nav {
+    display: inline;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav .a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+ }
+
+nav a:hover {
+  color: #c10e2d;
+}
+
+
+body {
+  font-family: "Century Gothic", sans-serif;
+  font-size: 100%;
+}
+
+
+
+h1 {
+  font-family: "Pacifico", cursive;
+  color: #c10e2d;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    padding:2px;
+    width:100%;
+}
+
+footer a:hover {
+  color: #c10e2d;
 }
