@@ -55,18 +55,12 @@ a:hover {
     border: 5px solid white;
 }
 
-.background-stuff p {
-
-}
 
 .marketing-text {
     width: 50%;
     display: inline-block;
 }
 
-.background-stuff .marketing-text {
-
-}
 
 main article {
     padding: 30px;
@@ -79,11 +73,11 @@ main section {
 
 }
 
-#SMManage {
+.gradient {
     border-radius: 20px;
     background: linear-gradient(lightpink, red);
 }
-#SMManage h1 {
+.gradient h1 {
     color:white;
 }
 
