@@ -36,7 +36,7 @@ a {
 }
 
 a:hover {
-    color: white;
+    color: black;
 }
 
 
@@ -91,12 +91,12 @@ h1 {
 
 footer {
     background-color:black;
-    color:white;
+    color:#c10e2d;
     padding:2px;
     width:100%;
     text-align: center;
 }
 
 footer a:hover {
-    color: #c10e2d;
+    color: white;
 }
