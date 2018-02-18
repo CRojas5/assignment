@@ -47,13 +47,13 @@ a:hover {
     text-align: center;
     margin: auto;
     padding: 50px;
-
+    box-shadow: 10x 10px 20px black
 }
 
 .marketing{
     border-radius: 50%;
     border: 2px solid white;
-    box-shadow: 10x 10px 20px black;
+   
 }
 
 
