@@ -1,0 +1,103 @@
+html {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: "Century Gothic", sans-serif;
+    font-size: 100%;
+    margin:  0;
+}
+
+header {
+    background-image: url(https://crojas5.github.io/assignment/projects/htmlstructuraltags/images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50vh;
+    padding: 4px;
+    width: 100%;
+    color:white;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    display: inline;
+}
+nav li {
+    display: inline-block;
+    color: #c10e2d;
+}
+
+a {
+    color: #c10e2d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+
+
+.background-stuff{
+
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 10x 10px 20px black
+}
+
+.marketing{
+    border-radius: 50%;
+    border: 2px solid white;
+   
+}
+
+
+.marketing-text {
+    width: 50%;
+    display: inline-block;
+}
+
+
+main article {
+    padding: 30px;
+}
+
+main section {
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+
+}
+
+.gradient {
+    border-radius: 20px;
+    background: linear-gradient(lightpink, red);
+}
+.gradient h1 {
+    color:white;
+}
+
+
+h1 {
+    font-family: "Pacifico", cursive;
+    color: #c10e2d;
+    font-weight: normal;
+    font-size: 2rem;
+}
+
+footer {
+    background-color:black;
+    color:#c10e2d;
+    padding:2px;
+    width:100%;
+    text-align: center;
+}
+
+footer a:hover {
+    color: white;
+}
