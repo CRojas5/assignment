@@ -25,6 +25,15 @@ h1 {
   font-size: 2rem;
 }
 
+@media (max-width: 768px) {
+    main article {
+        display: block;
+    }
+
+    main section {
+        flex: 0 0 100%;
+    }
+    
 footer {
     background-color:black;
     color:white;
