@@ -13,6 +13,9 @@ nav a:hover {
   color: #c10e2d;
 }
 
+.headshot {
+    float: right;
+
 body {
   font-family: "Century Gothic", sans-serif;
   font-size: 100%;
