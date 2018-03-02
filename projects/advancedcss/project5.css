@@ -8,6 +8,10 @@ body {
     margin:  0;
 }
 
+@media screen and (min-width:700px) {
+    body {
+        background: #d3d3d3
+
 header {
     background-image: url(https://crojas5.github.io/assignment/projects/htmlstructuraltags/images/background.jpg);
     background-repeat: no-repeat;
