@@ -9,11 +9,7 @@ header {
     color: white;
  }
 
-.containerbox {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+
 }
 
 nav a:hover {
