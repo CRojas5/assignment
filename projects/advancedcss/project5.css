@@ -21,6 +21,11 @@ header {
     text-align: center;
 }
 
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
 nav {
     background-color: black;
     display: inline;
@@ -50,10 +55,15 @@ a:hover {
     box-shadow: 10x 10px 20px black
 }
 
+.background-stuff img {
+    max-width: 100%;
+    height: auto;
+}
+
 .marketing{
     border-radius: 50%;
     border: 2px solid white;
-   
+
 }
 
 
@@ -65,13 +75,26 @@ a:hover {
 
 main article {
     padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 main section {
     text-align: center;
     display: inline-block;
-    width: 33%;
+    flex: 0 0 30%;
 
+}
+
+@media (max-width: 768px) {
+    main article {
+        display: block;
+    }
+
+    main section {
+        flex: 0 0 100%;
+    }
 }
 
 .gradient {
