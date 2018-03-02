@@ -20,6 +20,10 @@ body {
   font-family: "Century Gothic", sans-serif;
   font-size: 100%;
 }
+    
+ @media screen and (min-width:700px) {
+    body {
+        background: #d3d3d3   
 
 h1 {
   font-family: "Pacifico", cursive;
