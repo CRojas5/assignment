@@ -14,11 +14,13 @@ header {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 50vh;
-    padding: 4px;
     width: 100%;
     color:white;
     text-align: center;
+}
+
+.header-img {
+    padding: 10px;
 }
 
 header img {
@@ -28,7 +30,7 @@ header img {
 
 nav {
     background-color: black;
-    display: inline;
+    display: block;
 }
 nav li {
     display: inline-block;
@@ -38,6 +40,8 @@ nav li {
 a {
     color: #c10e2d;
     text-decoration: none;
+    padding: 10px;
+    display: inline-block;
 }
 
 a:hover {
@@ -68,8 +72,16 @@ a:hover {
 
 
 .marketing-text {
-    width: 50%;
-    display: inline-block;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    background: rgba(0, 0, 0, .8);
+}
+
+.marketing-text p {
+    padding: 10px;
+    margin: 0;
+    line-height: 24px;
 }
 
 
@@ -117,7 +129,7 @@ footer {
     background-color:black;
     color:#c10e2d;
     padding:2px;
-    width:100%;
+
     text-align: center;
 }
 
